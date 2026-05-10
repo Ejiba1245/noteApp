@@ -1,0 +1,14 @@
+{
+  "name": "AI Notes Assistant",
+  "description": "A smart AI-powered note-taking mobile application with summarization, chat assistant, voice-to-text, OCR, and cloud sync capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI-powered note management",
+    "Real-time Firebase synchronization",
+    "Offline access with Hive",
+    "Voice-to-text and OCR integration"
+  ]
+}
